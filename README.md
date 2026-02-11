@@ -1,6 +1,9 @@
 # Guess-Who-
 I made a Guess Who game in Python! pls dont bully its my first project...
-Project v1: gameplay = True
+
+Project v1: 
+```
+gameplay = True
 while gameplay:
     wears_accessories = input("Does your character wear an accessory? ")
     if wears_accessories == "yes": #6 people wears accessories such as earrings, hats, and glasses, and the rest don't
@@ -52,7 +55,7 @@ while gameplay:
     if play_again == "no":
         print("Goodbye.")
         gameplay = False
-
+```    
 
 How It's Made:
 Tech used: PyCharm
